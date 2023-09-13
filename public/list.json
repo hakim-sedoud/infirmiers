@@ -1,0 +1,255 @@
+[
+    {
+        "name": "SERVICE INFIRMIERE DE TREMBLAY",
+        "specialty": "Infirmier",
+        "phone": "06 95 77 94 51",
+        "address":  "93290 TREMBLAY EN FRANCE",
+        "note": 5.0
+      },
+    {
+        "name": "CABINET VERDUN",
+        "specialty": "Infirmier",
+        "phone": "07 45 03 71 29",
+        "address": "93290 TREMBLAY EN FRANCE",
+        "note": 4.5
+      },
+      {
+        "name": "LEILA / EMILIE",
+        "specialty": "Infirmier",
+        "phone": "07 45 03 71 29",
+        "address": "15 RUE DE VERDUN, 93290 TREMBLAY EN FRANCE",
+        "note": 4.5
+      },
+      {
+        "name": "KRUKAR NADINE",
+        "specialty": "Infirmier",
+        "phone": "01 48 60 79 59",
+        "address": "6 AVENUE PASTEUR, 93290 TREMBLAY EN FRANCE",
+        "note": 3.2
+      },
+      {
+        "name": "PALUMBO IRENE",
+        "specialty": "Infirmier",
+        "phone": "01 48 60 81 95",
+        "address": "28 AVENUE PASTEUR, 93290 TREMBLAY EN FRANCE",
+        "note": 2.9
+      },
+      {
+        "name": "ULMANN LEONARD",
+        "specialty": "Infirmier",
+        "phone": "01 43 85 53 10",
+        "address": "3 AVENUE ALBERT SARRAUT, 93290 TREMBLAY EN FRANCE",
+        "note": 3.5
+      },
+      {
+        "name": "LOSY SANDRA",
+        "specialty": "Infirmier",
+        "phone": "06 49 77 08 43",
+        "address": "29 AVENUE HENRI BARBUSSE, 93290 TREMBLAY EN FRANCE",
+        "note": 3.0
+      },
+      {
+        "name": "CENTRE DE SANTE F DOLTO",
+        "specialty": "Centre de santé",
+        "phone": "01 48 61 87 97",
+        "address": "COURS DE LA REPUBLIQUE, 93290 TREMBLAY EN FRANCE"
+      },
+      {
+        "name": "NOEL NAUCK AUDREY",
+        "specialty": "Infirmier",
+        "phone": "06 16 92 04 27",
+        "address": "29 AVENUE HENRI BARBUSSE, 93290 TREMBLAY EN FRANCE",
+        "note": 2.5
+      },
+      {
+        "name": "LEGRAS SANDRINE",
+        "specialty": "Infirmier",
+        "phone": "",
+        "address": "17 RUE DE FLANDRE, 93290 TREMBLAY EN FRANCE",
+        "note": 2.7
+      },
+      {
+        "name": "JEBBARI AMINE",
+        "specialty": "Infirmier",
+        "phone": "06 46 17 45 00",
+        "address": "42 AVENUE NELSON MANDELA, 93290 TREMBLAY EN FRANCE",
+        "note": 3.4
+      },
+      {
+        "name": "FAMAHA SILVINE",
+        "specialty": "Infirmier",
+        "phone": "07 67 67 61 27",
+        "address": "7 RUE CHARLES GOUNOD, 93290 TREMBLAY EN FRANCE",
+        "note": 3.3
+      },
+      {
+        "name": "DERONNE JULIE",
+        "specialty": "Infirmier",
+        "phone": "06 46 17 45 00",
+        "address": "40 AVENUE NELSON MANDELA, 93290 TREMBLAY EN FRANCE",
+        "note": 2.8
+      },
+      {
+        "name": "PAZOS MELANIE",
+        "specialty": "Infirmier",
+        "phone": "01 48 60 65 34",
+        "address": "CABINET DE MME MARTIN, 42 RUE NELSON MANDELA, 93290 TREMBLAY EN FRANCE",
+        "note": 3.1
+      },
+      {
+        "name": "SRITHARAN PRATHUSA",
+        "specialty": "Infirmier",
+        "phone": "01 48 60 67 11",
+        "address": "29 AVENUE HENRI BARBUSSE, 93290 TREMBLAY EN FRANCE"
+      },
+      {
+        "name": "OUJRK MARYAM",
+        "specialty": "Infirmier",
+        "phone": "",
+        "address": "18B COURS DE LA REPUBLIQUE, 93290 TREMBLAY EN FRANCE",
+        "note": 2.6
+      },
+      {
+        "name": "LAILLIER FRANCK",
+        "specialty": "Infirmier",
+        "phone": "06 01 27 47 60",
+        "address": "39 RUE LANGUEDOC, 93290 TREMBLAY EN FRANCE",
+        "note": 3.5
+      },
+      {
+        "name": "DOUCOURE COUMBA",
+        "specialty": "Infirmier",
+        "phone": "",
+        "address": "DOUCOURE SEL, 18B COURS DE LA REPUBLIQUE, 93290 TREMBLAY EN FRANCE",
+        "note": 2.9
+      },
+      {
+        "name": "OUDDANI FADMA",
+        "specialty": "Infirmier",
+        "phone": "01 48 60 33 33",
+        "address": "SCM PROMED, 39 RUE DU LANGUEDOC, 93290 TREMBLAY EN FRANCE",
+        "note": 3.2
+      },
+      {
+        "name": "LAFONTAINE STELLA",
+        "specialty": "Infirmier",
+        "phone": "",
+        "address": "INFIRMIERS LAFONTAINE, 7 RUE C GOUNOD, 93290 TREMBLAY EN FRANCE",
+        "note": 2.8
+      },
+      {
+        "name": "AGASSEAU FREDERIQUE",
+        "specialty": "Infirmier",
+        "phone": "01 48 60 81 95",
+        "address": "28 AVENUE PASTEUR, 93290 TREMBLAY EN FRANCE"
+      },
+      {
+        "name": "ZARROUK HICHEM",
+        "specialty": "Infirmier",
+        "phone": "",
+        "address": "29 AVENUE H BARBUSSE, 93290 TREMBLAY EN FRANCE",
+        "note": 3.0
+      },
+      {
+        "name": "MASZNER SOPHIE",
+        "specialty": "Infirmier",
+        "phone": "",
+        "address": "17 RUE DE FLANDRE, 93290 TREMBLAY EN FRANCE",
+        "note": 3.3
+      },
+    {
+        "name": "BEN HADJ KOBAIRE MENEL",
+        "specialty": "Infirmier",
+        "phone": "06 68 16 43 92",
+        "address": "CABINET BEN HADJ KOBAIRE MENEL, 17 RUE FLANDRE, 93290 TREMBLAY EN FRANCE",
+        "note": 3.1
+    },
+    {
+        "name": "MALLET CHRISTINE",
+        "specialty": "Infirmier",
+        "phone": "",
+        "address": "CABINET MALLET CHRISTINE, 39 RUE DU LANGUEDOC, 93290 TREMBLAY EN FRANCE",
+        "note": 2.7
+    },
+    {
+        "name": "DOS REIS ALZIRA",
+        "specialty": "Infirmier",
+        "phone": "01 48 60 33 33",
+        "address": "SCM PROMED, 39 RUE DU LANGUEDOC, 93290 TREMBLAY EN FRANCE",
+        "note": 3.2
+    },
+    {
+        "name": "SKOVAJSA NICOLE",
+        "specialty": "Infirmier",
+        "phone": "06 01 27 47 60",
+        "address": "39 RUE DU LANGUEDOC, 93290 TREMBLAY EN FRANCE"
+    },
+    {
+        "name": "THOMAS ISABELLE",
+        "specialty": "Infirmier",
+        "phone": "07 61 88 31 20",
+        "address": "40 AVENUE VOLTAIRE, 93290 TREMBLAY EN FRANCE",
+        "note": 3.5
+    },
+    {
+        "name": "CHILLON JOSE",
+        "specialty": "Infirmier",
+        "phone": "06 50 53 45 26",
+        "address": "40 RUE DU LIMOUSIN, 93290 TREMBLAY EN FRANCE",
+        "note": 3.0
+    },
+    {
+        "name": "DIEU MURIEL",
+        "specialty": "Infirmier",
+        "phone": "",
+        "address": "6 AVENUE PASTEUR, 93290 TREMBLAY EN FRANCE",
+        "note": 2.9
+    },
+    {
+        "name": "MESSAAD ANAWEL",
+        "specialty": "Infirmier",
+        "phone": "",
+        "address": "CABINET MESSAAD ANAWEL, 17 RUE DE FLANDRE, 93290 TREMBLAY EN FRANCE"
+    },
+    {
+        "name": "TANTY BRUNO",
+        "specialty": "Infirmier",
+        "phone": "",
+        "address": "39 RUE DU LANGUEDOC, 93290 TREMBLAY EN FRANCE",
+        "note": 3.3
+    },
+    {
+        "name": "OUADAH NOURA",
+        "specialty": "Infirmier",
+        "phone": "",
+        "address": "CABINET TOUMLILT NOURA, 6 RUE PASTEUR, 93290 TREMBLAY EN FRANCE",
+        "note": 3.1
+    },
+    {
+        "name": "ASDRUBAL MYLENE",
+        "specialty": "Infirmier",
+        "phone": "06 16 56 80 82",
+        "address": "40 AVENUE VOLTAIRE, 93290 TREMBLAY EN FRANCE"
+    },
+    {
+        "name": "JOUANI SYLVIE",
+        "specialty": "Infirmier",
+        "phone": "06 80 16 56 98",
+        "address": "9 RUE PIERRE BROSSOLETTE, 93290 TREMBLAY EN FRANCE",
+        "note": 2.8
+    },
+    {
+        "name": "AYIVI KAREN",
+        "specialty": "Infirmier",
+        "phone": "",
+        "address": "17 RUE DE FLANDRE, 93290 TREMBLAY EN FRANCE",
+        "note": 3.4
+    },
+    {
+        "name": "GOSSEZ VIRGINIE",
+        "specialty": "Infirmier",
+        "phone": "01 48 60 33 33",
+        "address": "39 RUE DU LANGUEDOC, 93290 TREMBLAY EN FRANCE",
+        "note": 2.5
+    }
+]

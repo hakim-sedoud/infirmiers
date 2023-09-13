@@ -1,0 +1,109 @@
+/* Global styles */
+.App {
+    font-family: 'Arial, sans-serif';
+    background-color: #f4f4f4;
+    padding: 2em 4em;
+    text-align: center;
+    transition: background-color 0.3s;
+}
+
+.Header {
+    color: #4a8fd2;
+    margin-bottom: 2.5em;
+    font-size: 2.7em;
+    font-weight: bold;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.Input {
+    padding: 0.8em;
+    font-size: 1.1em;
+    width: 65%;
+    margin: 1em 0;
+    border: 1px solid #d8d8d8;
+    border-radius: 27px;
+    outline: none;
+    transition: all 0.3s;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.04);
+}
+
+.Input:focus {
+    border-color: #4a8fd2;
+    box-shadow: 0px 3px 12px rgba(74, 143, 210, 0.2);
+}
+
+/* Directory List styles */
+.DirectoryList {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(310px, 1fr));
+    gap: 3.8em;
+    margin-top: 2.5em;
+    align-items: stretch;
+}
+
+.Entry {
+    background-color: #ffffff;
+    border-radius: 15px;
+    padding: 2em;
+    box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.08);
+    transition: transform 0.25s, box-shadow 0.25s;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Entry:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.Name {
+    color: #333;
+    margin-bottom: 1.2em;
+    font-weight: bold;
+    font-size: 1.15em;
+}
+
+.Phone, .Address {
+    color: #666;
+    margin-bottom: 1.2em;
+    line-height: 1.6;
+    font-size: 0.95em;
+}
+
+/* Star Rating styles */
+.star-icon {
+    font-size: 0.8em;
+    margin-right: 0.2em;
+    transition: color 0.3s;
+    color: #ffc107; /* Couleur jaune pour les étoiles pleines */
+}
+
+.starContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1em;
+}
+
+.stars {
+    display: flex; /* alignement horizontal des étoiles */
+    align-items: center;
+    justify-content: center;
+}
+
+/* Phone Link styles */
+.PhoneLink {
+    color: #4a8fd2;
+    text-decoration: none;
+    transition: color 0.3s;
+    padding: 0.3em 0.6em;
+    border-radius: 6px;
+}
+
+.PhoneLink:hover {
+    color: #3572b3;
+    background-color: #ebf6ff;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.06);
+}
