@@ -64,7 +64,7 @@ function App() {
             <Head>
                 <title>Infirmières à Tremblay-en-France - Annuaire</title>
                 <meta name="description" content="Annuaire des infirmières à Tremblay-en-France. Trouvez et contactez les meilleures professionnelles de la santé." />
-                <link rel="canonical" href="http://votresite.com/" />
+                <link rel="canonical" href="https://infirmiers-de-tremblay.com" />
             </Head>
             <h1 className={styles.Header}>Annuaire des Infirmières à Tremblay-en-France</h1>
             <input
